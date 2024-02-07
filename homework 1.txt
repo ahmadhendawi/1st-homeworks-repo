@@ -1,0 +1,11 @@
+1)  The difference between <div> & <section>
+
+<div> : this tag is known as the divison tag, it creates divisions of the content (separates data) in the web page and every div tag will start from a new line (not the same line).
+
+<section> : this is a structural tag that defines sections in a document by grouping up related elements like headers and chapters.
+___________________
+2) The difference between <article> & <p>
+
+<article> : this tag represents the self contained composition in the website and each article should have its own meaning and points, it can be customized in CSS.
+
+<p> : known as the paragraph tag, it always starts in a new line it basically creates paragraphs to make the website content easily readable for users
